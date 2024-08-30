@@ -5,7 +5,6 @@
 
 **Explain what software engineering is and discuss its importance in the technology industry.**
 Software engineering refers to the design, developing, testing and maintenance of software. It ensures reliable, efficient and 8n7 sftware is created.
-
 **Identify and describe at least three key milestones in the evolution of software engineering.**
 1. Structured Programming (1960s): Introduced disciplined code organization, reducing errors and improving readability.
 2. Agile Manifesto (2001): Shifted focus to iterative development, collaboration, and flexibility, revolutionizing software development practices.
